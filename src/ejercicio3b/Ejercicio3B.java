@@ -18,8 +18,10 @@ public class Ejercicio3B {
      */
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
+        String Mauri; 
         double euros;
         int opcion; 
+        System.out.println("---------------");
         System.out.println("***MENU***");
         System.out.println("Que tipo de divisa desea saber?");
         System.out.println("1- LIBRAS");
